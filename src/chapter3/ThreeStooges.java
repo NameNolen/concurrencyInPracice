@@ -6,7 +6,8 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * 在不可变对象的内部仍可以使用可变对象来管理他们的状态：如本例
+ * 在不可变对象的内部仍可以使用可变对象来管理他们的状态：
+ * 如本例
  * 尽管保存姓名的Set对象是可变的，但从ThreeStooges的这几中可以看到，
  * 在Set对象构造完成后无法对其进行修改。stooges是一个final类型的引用变量，
  * 因此所有的对象状态都通过一个final域来访问。
