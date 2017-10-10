@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="spring-jdbc-4.3.11.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/javaD/7-java-jar/spring-jdbc-4.3.11.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/javaD/7-java-jar/spring-jdbc-4.3.11.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/spring-jdbc-4.3.11.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
