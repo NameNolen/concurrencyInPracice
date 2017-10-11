@@ -16,7 +16,7 @@ public class StackCloseTest {
         Animal candidate = null;
 
         //animals 被封闭在方法中，不要使他们逸出！
-        animales = new TreeSet<Animal>();
+        animales = new TreeSet();
         animales.addAll(candidates);
         for (Animal a : animales) {
             if (candidate == null || !candidates.isEmpty()) {
